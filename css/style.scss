@@ -1,0 +1,61 @@
+.mainTask {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+body{
+  margin-top: 5rem !important;
+}
+
+h1{
+  margin-bottom: 6rem;
+}
+
+.navbar-brand{
+  padding-left: 2rem;
+}
+
+.nav-items{
+  text-decoration: none !important;
+}
+
+.navBar-link{
+  text-align: right !important;
+  color: black;
+  &:hover{
+    color:crimson;
+  }
+}
+
+.descriptionBox{
+  background-color: wheat !important;
+
+}
+
+.container{
+  border-radius: 2rem;
+}
+
+.row{
+  margin-top: 2rem;
+  padding-top: 2rem;
+}
+
+#valueNavbarColor{
+  color : black !important;
+}
+
+#valueBackgroundColor{
+  color : black !important;
+}
+
+#valueBoxColor{
+  color : black !important;
+}
+
+.navBar-link{
+  padding-left: 25rem;
+}
+ul{
+  list-style: none;
+}
